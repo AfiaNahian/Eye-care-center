@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Catarct",
+        "price": "20000",
+        "reason": "A cataract is when the lens in the human eye slowly goes cloudy, this is usually linked to aging. The cloudiness causes blurring of vision which slowly worsens over time. ",
+        "treatment": "We are able to offer surgery to remove the cataract permanently. You will be assessed at an outpatient appointment and then should you wish to proceed with cataract surgery a surgery date will be fixed before you leave our unit.",
+        "surgery": "Cataract Surgery",
+        "doctor": "Dr. Shafiul Bari Russel",
+        "img": "https://i.ibb.co/YTMWsGZ/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Medical Retina",
+        "price": "30000",
+        "reason": "The back of the  eye is damaged or found any damaged tissues can create retinal problem",
+        "treatment": "The Medical Retina team specialise in treating the back of the eye and will oversee any medical intervention needed. This might include the administration of drugs, eye drops, injections and laser treatment.",
+        "surgery": "Laser Treatment",
+        "doctor": "Dr. Muhammad Moniruzzaman",
+        "img": "https://i.ibb.co/zQKLrWN/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "PAEDIATRIC & SQUINT Services",
+        "price": "25000",
+        "reason": "In children, a squint is often caused by the eye attempting to overcome a vision problem, such as: short-sightedness",
+        "treatment": "Refractive Error Evaluation ,Amblyopia",
+        "surgery": "Congenital & Developmental Cataract Surgery,Squint Surgery",
+        "doctor": "Dr. Mezbahul Alam",
+        "img": "https://i.ibb.co/wJkzq75/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Orbit & Oculoplasty Services",
+        "price": "50000",
+        "reason": "This test is used to check for glaucoma, an eye disease that can cause blindness by damaging the nerve in the back of the eye.",
+        "treatment": "Clinical assessment of squint,Clinical assessment of ptosis (lid drooping)",
+        "surgery": "Chalaziom Surgery ,DCT ,Conventional DCR ,Laser DCR",
+        "doctor": "Dr. Mezbahul Alam",
+        "img": "https://i.ibb.co/YyrWB7n/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Cornea Transplantation",
+        "price": "60000",
+        "reason": "Cornea transplants are usually performed to correct problems with your eyesight caused by certain medical conditions.",
+        "treatment": "Visual acuity assessment ,Refraction,Slit-lamp evaluation",
+        "surgery": "Different types of anterior segment surgeries like Pterygium surgery, conjunctival hooding, Tarsorrhaphy,Conjunctival flaps",
+        "doctor": "Dr. Shafiul Bari Russel",
+        "img": "https://i.ibb.co/fpYZgtc/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Vitreo-Retina Service",
+        "price": "20000",
+        "reason": "Age-related macular degeneration (AMD) is a major cause of blindness in those over 50 years old. The condition can make it difficult to read or recognise faces",
+        "treatment": "Retinal photocoagulation with double freequency YAG laser",
+        "surgery": "Intravitreal Anti-VEGF Injection",
+        "doctor": "Dr. Afzal Mahfuzullah",
+        "img": "https://i.ibb.co/qgMqDGL/6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Contact Lens",
+        "price": "2000",
+        "reason": "Contact lenses create a more natural vision compared to spectacles.",
+        "treatment": "Your ﬁeld of view is reduced by spectacle frames and lenses. ... The better balance can improve the way the eyes work together and give better vision. Contact lenses give better side vision for people with high astigmatism.",
+        "surgery": "Laser Surgery",
+        "doctor": "Dr. Shafiul Bari Russel",
+        "img": "https://i.ibb.co/JQyyxBP/7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Ocular trauma",
+        "price": "20000",
+        "reason": "Ocular trauma, although not an everyday encounter for many ophthalmologists, is a serious problem for our eye health system.",
+        "treatment": "In general, the more serious types of ocular trauma such as ruptured globes and corneal lacerations requiring surgical reconstruction are less frequently seen by most ophthalmologists.",
+        "surgery": "Check visual acuity. Determine what is injured. Determine whether or not the globe has been ruptured.",
+        "doctor": "Dr. Mezbahul Alam",
+        "img": "https://i.ibb.co/DRFkydZ/8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Glaucoma Service",
+        "price": "50000",
+        "reason": "Glaucoma is a condition associated with raised pressure within the eye, which gradually damages the delicate nerve of the eye. If this is left untreated it can cause permanent visual loss.",
+        "treatment": "most patients will be treated with eye drops. Laser and Surgery will be given if necessary",
+        "surgery": "Laser Surgery",
+        "doctor": "Dr. Mohammad Zahirul Islam",
+        "img": "https://i.ibb.co/6nT5GxC/9.jpg"
+    }
+]
